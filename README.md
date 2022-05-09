@@ -1,6 +1,7 @@
 # Hi there, I'm JK 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiakjiak&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiakjiak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jiakjiak/jiakjiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
