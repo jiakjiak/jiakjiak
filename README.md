@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there, I'm JK 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiakjiak&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiakjiak&show_icons=true&theme=cobalt)
 <!--
 **jiakjiak/jiakjiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
