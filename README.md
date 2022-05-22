@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **"Project Management."** <br />(I ♥ learning new topics beyond coding 😎)
 
-- 👯 I’m looking to collaborate on **Andriod**
+- 👯 I’m looking to collaborate on **Android.**
 
 - 👨‍💻 All of my projects are available at [https://jiakjiak.netlify.app/](https://jiakjiak.netlify.app/)
 
-- 💬 Ask me about **HTML** and **CSS**
+- 💬 Ask me about **HTML** and **CSS.**
 
 - ⚡ Fun fact **I lived in the Arctic for 15 months.☃**
 
