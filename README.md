@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋🏻, I'm Jia</h1>
 <h3 align="center">A frontend development enthusiast.</h3>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="female coder" align="right" width="350" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="female coder" align="center" width="350" />
 
 - 🔭 I’m currently working on **improving my GitHub profile and cleaning my code.**
 
-- 🌱 I’m currently learning **"Project Management."** <br />(I ♥ learning new topics beyond coding 😎)
+- 🌱 I’m currently learning **"Project Management and SQL"** <br />(I ♥ learning new topics beyond coding 😎)
 
 - 👯 I’m looking to collaborate on **Android.**
 
